@@ -18,40 +18,31 @@ I am **Vipin Kumar Saket** and I am a Software Developer.
 [![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?logo=leetcode)](https://leetcode.com/u/vipinsaket/)
 
 
-### 💻 Skills & Technologies
+### 💻 Languages and Tools...
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Servlet-2C2255?style=for-the-badge&logo=apachetomcat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Oracle_Logo.svg/2560px-Oracle_Logo.svg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png"></code>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-
-
-
+<code><img height="30" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg"></code>&nbsp;&nbsp; <!-- Hibernate -->
 
 
 
 
 
 ### ⚡ My GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vipinsaket&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vipinsaket&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vipinsaket&theme=default)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-username&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=your-username&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-username&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=your-username&theme=github_dark&utcOffset=+5.5)
+![Grade](https://img.shields.io/badge/Grade-A--_-green?style=for-the-badge)
 
