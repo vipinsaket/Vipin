@@ -93,6 +93,15 @@ I am **Vipin Kumar Saket** and I am a Software Developer.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+
+
+
+
+
+
+
+
+
 
 
